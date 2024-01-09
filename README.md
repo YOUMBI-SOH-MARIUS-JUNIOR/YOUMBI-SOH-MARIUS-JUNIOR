@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YOUMBI-SOH-MARIUS-JUNIOR
+- 👋 Hi, I’m @YOUMBI-SOH-MARIUS-JUNIOR actually a level 3 student in Information System and Management at ISTAG ( institut superieur des technologies appliquee et de gestion ) -OMNISPORT, yaounde.
 - 👀 I’m interested in MOBILE DEVELOPMENT
 - 🌱 I’m currently learning dart language/flutter
 - 💞️ I’m looking to collaborate on mobile projects 
