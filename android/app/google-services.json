@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561499088035",
+    "project_id": "matrix-telecoms-15182",
+    "storage_bucket": "matrix-telecoms-15182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561499088035:android:bb05ad9b76ae6b905d8b16",
+        "android_client_info": {
+          "package_name": "com.example.matrixtelecoms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561499088035-sg1m3s7vfmqv7ns5ld0qf5648hhshnl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8OT-2vWOMdKLOBmAjBQ2OoNhpE5zhAY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561499088035-sg1m3s7vfmqv7ns5ld0qf5648hhshnl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
