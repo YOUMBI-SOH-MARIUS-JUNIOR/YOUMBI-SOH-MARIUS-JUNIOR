@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "561499088035",
-    "project_id": "matrix-telecoms-15182",
-    "storage_bucket": "matrix-telecoms-15182.appspot.com"
+    "project_number": "793676051139",
+    "project_id": "marius-design-95011",
+    "storage_bucket": "marius-design-95011.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:561499088035:android:bb05ad9b76ae6b905d8b16",
+        "mobilesdk_app_id": "1:793676051139:android:25cf62a45b3e1e731da876",
         "android_client_info": {
-          "package_name": "com.example.matrixtelecoms"
+          "package_name": "com.example.marius_design"
         }
       },
       "oauth_client": [
         {
-          "client_id": "561499088035-sg1m3s7vfmqv7ns5ld0qf5648hhshnl2.apps.googleusercontent.com",
+          "client_id": "793676051139-sahohjmjte8c3ejuoejnlpnkt1oc2ei6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA8OT-2vWOMdKLOBmAjBQ2OoNhpE5zhAY0"
+          "current_key": "AIzaSyCCXzTpMDB6WrzpN4hJVzxbRlXc5rTKpKM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "561499088035-sg1m3s7vfmqv7ns5ld0qf5648hhshnl2.apps.googleusercontent.com",
+              "client_id": "793676051139-sahohjmjte8c3ejuoejnlpnkt1oc2ei6.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

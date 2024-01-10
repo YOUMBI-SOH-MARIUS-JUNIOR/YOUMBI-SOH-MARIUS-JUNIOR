@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.matrix">
+    package="com.example.marius_design">
    <application
-        android:label="matrix"
+        android:label="Marius Design"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/round_launcher">
         <activity
             android:name=".MainActivity"
             android:exported="true"
